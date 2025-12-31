@@ -1,0 +1,1 @@
+"""FastAPI components for incident management endpoints."""
